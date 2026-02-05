@@ -1,0 +1,7 @@
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\bin\Debug\U6P7.exe.config
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\bin\Debug\U6P7.exe
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\bin\Debug\U6P7.pdb
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\obj\Debug\U6P7.csproj.AssemblyReference.cache
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\obj\Debug\U6P7.csproj.CoreCompileInputs.cache
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\obj\Debug\U6P7.exe
+C:\Users\52661\Desktop\Estructura de datos\Unidad 6\U6P7\obj\Debug\U6P7.pdb
