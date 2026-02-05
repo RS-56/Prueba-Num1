@@ -8,4 +8,4 @@ hash mitad al cuadrado.
 
 # Especificaciones del programa.
 Este programa esta realizado puramente en el lenguaje de c#, en el se capturan 20 calificaciones en un arreglo y 
-tienen que almacenarse en un segundo arreglo.
+tienen que almacenarse en un segundo arreglo haciendo uso de un metodo de ordenamiento.
